@@ -13,13 +13,13 @@ Rscript hw1_yourID.R --output output1.csv --input input1.csv
 
 Your R code should output and round the set name with maximum value for each column.
 
-## Read in an input file
+## Read an input file
 
 examples = input1.csv
 
 ## Output a summary file
 
-(please follow the same format of the result.csv, i.e., round number into two digitals)
+Please follow the same format of the result.csv, i.e., round number into two digitals
 
 example =  output1.csv
 
@@ -28,8 +28,8 @@ example =  output1.csv
 10 testing data
 
 ```R
-Rscripthw1/code/hw1_000.R --input hw1/data/test.1.csv --output hw1/eval/test1/hw1_000
-Rscripthw1/code/hw1_000.R --output hw1/eval/test2/hw1_000 --input hw1/data/test.2.csv
+Rscript hw1_5566.R --input hw1/data/test.1.csv --output hw1/eval/test1/hw1_001.csv
+Rscript hw1_5566.R --output hw1/eval/test2/hw1_002.csv --input hw1/data/test.2.csv
 ```
 Correct answer gets 9 points of each testing data.
 
